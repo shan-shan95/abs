@@ -1,2 +1,2 @@
 # このリポジトリについて
-AtcoderのBeginners Contestを解いたもの
+AtcoderのBeginners Selectionを解いたもの
