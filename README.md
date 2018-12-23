@@ -1,0 +1,2 @@
+# このリポジトリについて
+AtcoderのBeginners Contestを解いたもの
